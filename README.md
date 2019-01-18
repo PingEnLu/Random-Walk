@@ -1,7 +1,7 @@
 # Random-Walk
 
-Implementation of the biased random walk from node2vec.
-Python 3 implementation of the Implementation of the biased random walk from node2vec Aditya Grover, Jure Leskovec and Vid Kocijan. node2vec: Scalable Feature Learning for Networks. A. Grover, J. Leskovec. ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2016.
+Python 3 implementation of the biased random walk from node2vec Aditya Grover, Jure Leskovec and Vid Kocijan. node2vec: Scalable Feature Learning for Networks. A. Grover, J. Leskovec. ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2016.
+
 
 Most of the codes are from [eliorc/node2vec](https://github.com/eliorc/node2vec).
 
