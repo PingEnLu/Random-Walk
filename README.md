@@ -7,7 +7,7 @@ Most of the codes are from [eliorc/node2vec](https://github.com/eliorc/node2vec)
 
 # Changes
 
-Change the type of walks attribute from list of **str** to list of **int**.
+Change the type of *walks* attribute from list of **str** to list of **int**.
 
 Delete unused class methods, and **merge parallel_generate_walks** into the code.
 
